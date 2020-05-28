@@ -5,8 +5,10 @@
 *.slo
 *.lo
 *.o
-Space-Invadus/bin/Release/*.exe
-Space-Invadus/bin/Debug/*.exe
+Space-Invadus/obj/Release/*.o
+Space-Invadus/obj/Debug/*.o
+Space-Invadus/obj/Release/*.res
+Space-Invadus/obj/Debug/*.res
 *.obj
 
 # Precompiled Headers
@@ -30,8 +32,8 @@ Space-Invadus/*.dll
 
 # Executables
 Space-Invadus/*.exe
-Space-Invadus/obj/Release/*.o
-Space-Invadus/obj/Debug/*.o
+Space-Invadus/bin/Release/*.exe
+Space-Invadus/bin/Debug/*.exe
 *.out
 *.app
 
