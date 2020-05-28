@@ -1,0 +1,49 @@
+
+*** Credits ***
+*** Space Invadus V1.0 ***
+
+ --------------------
+
+Code :
+
+_ Tattus
+
+--------------------
+
+Graphismes :
+
+_ Tattus
+
+--------------------
+
+Sons :
+
+_ Tattus
+
+--------------------
+
+Polices : 
+
+_ Liberation Fonts Mono (https://fedorahosted.org/liberation-fonts/) sous licence "SIL Open Font License"
+--------------------
+
+Bibliothèques utilisées :
+
+_ SDL 2.0 sous licence zlib
+_ SDL image sous licence zlib
+_ SDL TTF sous licence zlib
+_ zlib (via SDL IMG, SDL TTF) sous licence zlib
+_ PNG (via SDL Image) sous licence libpng
+_ freetype (via SDL TTF) sous licence FreeType
+copyright © 2013 The FreeType Project (www.freetype.org).  All rights reserved.
+_ FMOD Studio low level
+FMOD Studio, copyright © Firelight Technologies Pty, Ltd., 1994-2014.
+www.fmod.org/sales/
+
+--------------------
+
+--------------------
+
+*** Licence ***
+
+_ La diffusion gratuite de Space Invadus V1.0, sans modifications est autorisée.

@@ -1,0 +1,16 @@
+
+*** How to play ***
+
+ --------------------
+
+Keyboard :
+
+_ Move : Right/Left arrows
+_ Shoot : C
+
+ --------------------
+
+Controller :
+
+_ Move : Right/Left arrows
+_ Shoot : A

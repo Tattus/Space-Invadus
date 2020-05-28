@@ -1,0 +1,20 @@
+
+*** Changement de la 0.1 à la 1.0 ***
+
+ --------------------
+
+Equilibrage :
+
+_ Le vaisseau peut avoir jusqu'à 5 tirs simultanés au lieu de 3
+
+ --------------------
+
+Correction de bug :
+
+_ Le niveau 4 se termine maintenant correctement
+
+ --------------------
+
+Divers :
+
+_ Le volume du jeu à été diminué

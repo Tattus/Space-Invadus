@@ -1,0 +1,16 @@
+
+*** Comment jouer ***
+
+ --------------------
+
+Clavier :
+
+_ Déplacement : Fleches Gauche/Droite
+_ Tir : C
+
+ --------------------
+
+Manette :
+
+_ Déplacement : Fleches Gauche/Droite
+_ Tir : A
