@@ -37,7 +37,7 @@ Space-Invadus/*.exe
 *.layout
 
 # Resources
-Space-Invadus/0 - Creation de ressources
+*.ink
 Space-Invadus/Dev/*.txt
 *.ogg
 *.ttf
