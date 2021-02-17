@@ -185,7 +185,7 @@ string C_ResourcesManager::getRcFile(string a_pResName)
 	return contenu;
 }
 
-#ifdef DEF_RCFMODSTUDIOLOW
+#ifdef DEF_RCFMODCORE
 FMOD_RESULT C_ResourcesManager::FMOD_System_CreateRcSound(FMOD_SYSTEM *a_system, string a_rcname, FMOD_MODE a_mode, FMOD_CREATESOUNDEXINFO *a_finfo, FMOD_SOUND **a_ppsound)
 {
 	string *tempFileName;
@@ -214,7 +214,7 @@ FMOD_RESULT C_ResourcesManager::FMOD_System_CreateRcSoundNoDel(FMOD_SYSTEM *a_sy
     remove(tempFileName->c_str());
     return result;
 }
-#endif //DEF_RCFMODSTUDIOLOW
+#endif //DEF_RCFMODCORE
 
 #ifdef DEF_RCSDL2TTF
 TTF_Font *C_ResourcesManager::TTF_OpenRcFontNoDel(string a_FontName, int ptsize)

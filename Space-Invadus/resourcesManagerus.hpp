@@ -7,7 +7,7 @@
    Modifié le : 21/10/2016
 */
 /// Defines de parametrage -- Décommenter la ligne adéquate.
-#define DEF_RCFMODSTUDIOLOW
+#define DEF_RCFMODCORE
 #define DEF_RCSDL2
 #define DEF_RCSDL2IMAGE
 #define DEF_RCSDL2TTF
@@ -17,9 +17,9 @@
 #define DEF_RESOURCESMANAGERUS
 
 /// Includes :
-#ifdef DEF_RCFMODSTUDIOLOW
-    #include <FMODStudioLowLevel_1_09_04/fmod.h>
-#endif // DEF_RCFMODSTUDIOLOW
+#ifdef DEF_RCFMODCORE
+    #include <FMOD/fmod.h>
+#endif // DEF_RCFMODCORE
 #ifdef DEF_RCSDL2
     #include <SDL2/SDL.h>
 #endif // DEF_RCSDL2
@@ -58,10 +58,10 @@ class C_ResourcesManager
         void closeRcFile(string rcFile);
         int getErrorCode(void); // Permet d'obtenir le dernier code d'erreur.
         string getRcFile(string a_pResName); // Charge un fichier texte et renvoie le texte de ce dernier.
-        #ifdef DEF_RCFMODSTUDIOLOW
+        #ifdef DEF_RCFMODCORE
             FMOD_RESULT FMOD_System_CreateRcSound(FMOD_SYSTEM *a_system, string a_rcname, FMOD_MODE a_mode, FMOD_CREATESOUNDEXINFO *a_finfo, FMOD_SOUND **a_ppsound); // Charge un son provenant du conteneur de ressources via FMOD Studio Low. Elle renvoie FMOD_RESULT.
             FMOD_RESULT FMOD_System_CreateRcSoundNoDel(FMOD_SYSTEM *a_system, string a_rcname, FMOD_MODE a_mode, FMOD_CREATESOUNDEXINFO *a_finfo, FMOD_SOUND **a_ppsound); // Charge un son provenant du conteneur de ressources via FMOD Studio Low. Elle renvoie FMOD_RESULT. La fonction ne supprime pas le fichier temporaire créé pour la lecture.
-        #endif // DEF_RCFMODSTUDIOLOW
+        #endif // DEF_RCFMODCORE
         #ifdef DEF_RCSDL2TTF
             TTF_Font *TTF_OpenRcFontNoDel(string a_FontName, int ptsize); // Charge une police provenant du conteneur de ressources via SDL_TTF. Elle renvoie la police chargée.
         #endif // DEF_RCSDL2TTF
