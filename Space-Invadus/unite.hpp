@@ -14,7 +14,7 @@ using namespace std;
 /// Includes :
 #include <iostream>
 #include <SDL2/SDL.h>
-#include <FMODStudioLowLevel_1_09_04/fmod.h>
+#include <FMOD/fmod.h>
 #include "eventusManagerus.hpp"
 #include "window.hpp"
 #include "managerSounds.hpp"

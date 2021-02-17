@@ -12,7 +12,7 @@
 
 /// Includes :
 #include <iostream>
-#include <FMODStudioLowLevel_1_09_04/fmod.h>
+#include <FMOD/fmod.h>
 #include "errorusManagerus.hpp"
 #include "sound.hpp"
 

@@ -44,7 +44,7 @@
     #endif
 #endif
 #ifdef PARAM_FMOD_STUDIO_LOW
-    #include <FMODStudioLowLevel_1_09_04/fmod.h>
+    #include <FMOD/fmod.h>
     #include "soundusManagerus.hpp"
     #include "managerSounds.hpp"
 #endif
