@@ -18,7 +18,7 @@
 
 /// Includes :
 #ifdef DEF_RCFMODSTUDIOLOW
-    #include <FMODStudioLowLevel/fmod.h>
+    #include <FMODStudioLowLevel_1_09_04/fmod.h>
 #endif // DEF_RCFMODSTUDIOLOW
 #ifdef DEF_RCSDL2
     #include <SDL2/SDL.h>
