@@ -14,7 +14,7 @@ using namespace std;
 
 /// Includes :
 #include <iostream>
-#include <FMODStudioLowLevel/fmod.h>
+#include <FMODStudioLowLevel_1_09_04/fmod.h>
 #include "errorusManagerus.hpp"
 #include "resourcesManagerus.hpp"
 #include "soundusManagerus.hpp"
