@@ -1,11 +1,3 @@
-/* licenses.cpp
-   -----------------
-
-   Créé par : Tattus
-   le : 22/10/2016
-
-   Modifié le : 20/11/2016
-*/
 #include <iostream>
 #include "parametrage.hpp"
 #include "errorusManagerus.hpp"

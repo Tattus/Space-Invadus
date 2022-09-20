@@ -1,11 +1,3 @@
-/* filusManagerus.cpp
-   ------------------
-
-   Créé par : Tattus
-   le : 02/05/2015
-
-   Modifié le : 16/04/2017
-*/
 #include "filusManagerus.hpp"
 
 C_FileManager::C_FileManager()

@@ -1,11 +1,3 @@
-/* resourcesManagerus.cpp
-   ----------------------
-
-   Créé par : Tattus
-   le : 03/05/2015
-
-   Modifié le : 15/05/2015
-*/
 #include "resourcesManagerus.hpp"
 
 static C_ResourcesManager *myInstanceRM = NULL;

@@ -1,12 +1,3 @@
-/* image.cpp
-   ---------
-
-   Créé par : Tattus
-   le : 11/05/2015
-
-   Modifié le : 11/11/2016
-
-*/
 #include "image.hpp"
 #ifdef PARAM_SDL_IMG
     #include <SDL2/SDL_image.h>

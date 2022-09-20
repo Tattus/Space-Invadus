@@ -1,11 +1,3 @@
-/* menuWin.cpp
-   ---------------
-
-   Créé par : Tattus
-   le : 11/11/2016
-
-   Modifié le : 11/11/2016
-*/
 #include "menuWin.hpp"
 
 C_MenuWin::C_MenuWin()

@@ -1,11 +1,3 @@
-/* filusManagerus.hpp
-   ------------------
-
-   Créé par : Tattus
-   le : 02/05/2015
-
-   Modifié le : 16/04/2017
-*/
 #ifndef DEF_FILUSMANAGERUS
 #define DEF_FILUSMANAGERUS
 

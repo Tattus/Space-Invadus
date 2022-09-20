@@ -1,11 +1,5 @@
 /* errorusManagerus.cpp
    --------------------
-
-   Créé par : Tattus
-   le : 30/04/2015
-
-   Modifié le : 20/10/2016
-   --------------------
    Nécessite datusManagerus.cpp et datusManagerus.h
 */
 #include "errorusManagerus.hpp"

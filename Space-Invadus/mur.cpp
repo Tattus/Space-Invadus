@@ -1,11 +1,3 @@
-/* mur.cpp
-   ---------------
-
-   Créé par : Tattus
-   le : 05/11/2016
-
-   Modifié le : 05/11/2016
-*/
 #include "mur.hpp"
 
 C_Mur::C_Mur() : C_Unite()

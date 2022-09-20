@@ -1,14 +1,3 @@
-/* image.hpp
-   ---------
-
-   Créé par : Tattus
-   le : 11/05/2015
-
-   Modifié le : 11/11/2016
-   ---------
-    Lié à image.cpp
-
-*/
 #ifndef DEF_IMAGE
 #define DEF_IMAGE
 

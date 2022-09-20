@@ -1,11 +1,3 @@
-/* mur.hpp
-   ---------------
-
-   Créé par : Tattus
-   le : 05/11/2016
-
-   Modifié le : 05/11/2016
-*/
 #ifndef DEF_MUR
 #define DEF_MUR
 

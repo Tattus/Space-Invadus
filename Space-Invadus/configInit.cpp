@@ -1,11 +1,3 @@
-/* configInit.cpp
-   -----------------
-
-   Créé par : Tattus
-   le : 18/10/2016
-
-   Modifié le : 19/11/2016
-*/
 #include "configInit.hpp"
 
 static C_ConfigInit *myInstanceCI = NULL;
@@ -232,7 +224,7 @@ void C_ConfigInit::initializations(void)
 
     /// SoundManager
     SoundManager->setSystem(GlobalInitManager->getFMODSystem(), GlobalInitManager->getNbChannel());
-    SoundManager->setFxChannelGroup(0, 49);
+    //SoundManager->setFxChannelGroup(0, 49);
 
     /// Window
     if (!Window->createWindow(window_name, SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, RES_W, RES_H, SDL_WINDOW_SHOWN, -1, SDL_RENDERER_ACCELERATED | SDL_RENDERER_PRESENTVSYNC, 0, 0, 0, 255))

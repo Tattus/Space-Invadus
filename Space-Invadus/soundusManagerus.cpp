@@ -1,12 +1,3 @@
-/* soundusManagerus.cpp
-   --------------------
-
-   Créé par : Tattus
-   le : 10/05/2015
-
-   Modifié le : 22/10/2016
-
-*/
 #include "soundusManagerus.hpp"
 
 static C_SoundManager *myInstanceSM = NULL;

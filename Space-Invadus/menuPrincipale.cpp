@@ -1,11 +1,3 @@
-/* menuPrincipale.cpp
-   ---------------
-
-   Créé par : Tattus
-   le : 11/11/2016
-
-   Modifié le : 11/11/2016
-*/
 #include "menuPrincipale.hpp"
 
 C_MenuPrincipale::C_MenuPrincipale()

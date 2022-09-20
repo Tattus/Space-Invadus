@@ -1,11 +1,3 @@
-/* tir.hpp
-   ---------------
-
-   Créé par : Tattus
-   le : 27/10/2016
-
-   Modifié le : 27/10/2016
-*/
 #ifndef DEF_TIR
 #define DEF_TIR
 

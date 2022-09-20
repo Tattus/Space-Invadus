@@ -1,11 +1,5 @@
 /* window.cpp
    ----------
-
-   Créé par : Tattus
-   le : 08/05/2015
-
-   Modifié le : 24/10/2016
-   ----------
    Objet fenetre pour SDL2. nécessite errorusManagerus.cpp et errorusManagerus.h
 
 */

@@ -1,12 +1,3 @@
-/* managerJoystick.cpp
-   --------------------
-
-   Créé par : Tattus
-   le : 22/10/2016
-
-   Modifié le : 22/10/2016
-
-*/
 #include "managerJoystick.hpp"
 
 static C_ManagerJoystick *myInstanceMJ = NULL;

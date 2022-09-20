@@ -1,11 +1,3 @@
-/* niveau.cpp
-   ---------------
-
-   Créé par : Tattus
-   le : 26/10/2016
-
-   Modifié le : 11/11/2016
-*/
 #include "niveau.hpp"
 C_Niveau::C_Niveau()
 {

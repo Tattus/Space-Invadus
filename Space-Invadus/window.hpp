@@ -1,11 +1,3 @@
-/* window.hpp
-   ----------
-
-   Créé par : Tattus
-   le : 08/05/2015
-
-   Modifié le : 24/10/2016
-*/
 #ifndef DEF_WINDOW
 #define DEF_WINDOW
 

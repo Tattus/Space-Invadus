@@ -1,11 +1,3 @@
-/* alien.cpp
-   ---------------
-
-   Créé par : Tattus
-   le : 25/10/2016
-
-   Modifié le : 05/11/2016
-*/
 #include "alien.hpp"
 
 C_Alien::C_Alien() : C_Unite()

@@ -1,11 +1,3 @@
-/* parametrage.hpp
-   -----------------
-
-   Créé par : Tattus
-   le : 22/10/2016
-
-   Modifié le : 04/11/2016
-*/
 #ifndef DEF_PARAMETRAGE
 #define DEF_PARAMETRAGE
 
@@ -44,7 +36,7 @@
     /// Parametrage des constantes de préprocesseur.
 
         #define PROG_NAME "Space Invadus"
-        #define VERSION "1.0"
+        #define VERSION "1.1"
         #ifdef PARAM_SDL
             #define RES_W 600
             #define RES_H 800

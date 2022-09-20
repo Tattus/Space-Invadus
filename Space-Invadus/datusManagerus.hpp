@@ -1,11 +1,3 @@
-/* datusManagerus.hpp
-   ------------------
-
-   Créé par : Tattus
-   le : 01/05/2015
-
-   Modifié le : 19/10/2016
-*/
 #ifndef DEF_DATUSMANAGERUS
 #define DEF_DATUSMANAGERUS
 
