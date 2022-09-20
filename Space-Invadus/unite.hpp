@@ -1,11 +1,3 @@
-/* unite.hpp
-   ---------------
-
-   Créé par : Tattus
-   le : 25/10/2016
-
-   Modifié le : 05/11/2016
-*/
 #ifndef DEF_UNITE
 #define DEF_UNITE
 
@@ -14,7 +6,7 @@ using namespace std;
 /// Includes :
 #include <iostream>
 #include <SDL2/SDL.h>
-#include <FMOD/fmod.h>
+#include <FMOD/fmod.hpp>
 #include "eventusManagerus.hpp"
 #include "window.hpp"
 #include "managerSounds.hpp"

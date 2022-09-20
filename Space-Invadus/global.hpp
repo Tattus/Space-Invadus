@@ -1,11 +1,3 @@
-/* Global.hpp
-   -----------------
-
-   Créé par : Tattus
-   le : 18/10/2016
-
-   Modifié le : 29/10/2016
-*/
 #ifndef DEF_GLOBAL
 #define DEF_GLOBAL
 
@@ -44,7 +36,7 @@
     #endif
 #endif
 #ifdef PARAM_FMOD_STUDIO_LOW
-    #include <FMOD/fmod.h>
+    #include <FMOD/fmod.hpp>
     #include "soundusManagerus.hpp"
     #include "managerSounds.hpp"
 #endif

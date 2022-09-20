@@ -1,12 +1,3 @@
-/* managerFonts.cpp
-   -------------------
-
-   Créé par : Tattus
-   le : 17/05/2015
-
-   Modifié le : 22/10/2016
-
-*/
 #include "managerFonts.hpp"
 
 static C_ManagerFonts *myInstanceMF = NULL;

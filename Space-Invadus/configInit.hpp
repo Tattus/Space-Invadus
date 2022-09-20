@@ -1,11 +1,3 @@
-/* configInit.hpp
-   -----------------
-
-   Créé par : Tattus
-   le : 18/10/2016
-
-   Modifié le : 11/11/2016
-*/
 #ifndef DEF_CONFIGINIT
 #define DEF_CONFIGINIT
 

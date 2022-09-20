@@ -1,12 +1,3 @@
-/* font.cpp
-   ----------
-
-   Créé par : Tattus
-   le : 13/05/2015
-
-   Modifié le : 21/10/2016
-
-*/
 #include <SDL2/SDL_messagebox.h>
 #include "font.hpp"
 

@@ -1,12 +1,3 @@
-/* managerSounds.cpp
-   -------------------
-
-   Créé par : Tattus
-   le : 18/05/2015
-
-   Modifié le : 22/10/2016
-
-*/
 #include <sstream>
 #include "managerSounds.hpp"
 

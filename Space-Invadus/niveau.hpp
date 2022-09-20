@@ -1,11 +1,3 @@
-/* niveau.hpp
-   ---------------
-
-   Créé par : Tattus
-   le : 26/10/2016
-
-   Modifié le : 11/11/2016
-*/
 #ifndef DEF_NIVEAU
 #define DEF_NIVEAU
 

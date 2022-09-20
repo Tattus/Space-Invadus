@@ -1,11 +1,3 @@
-/* main.cpp
-   -----------------
-
-   Créé par : Tattus
-   le : 18/10/2016
-
-   Modifié le : 19/10/2016
-*/
 #include "global.hpp"
 #include "configInit.hpp"
 

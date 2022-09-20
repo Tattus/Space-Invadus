@@ -1,11 +1,3 @@
-/* tir.cpp
-   ---------------
-
-   Créé par : Tattus
-   le : 27/10/2016
-
-   Modifié le : 27/10/2016
-*/
 #include "tir.hpp"
 
 C_Tir::C_Tir() : C_Unite()

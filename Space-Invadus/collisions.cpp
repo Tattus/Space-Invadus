@@ -1,11 +1,5 @@
 /* collisions.cpp
    --------------
-
-   Créé par Tattus
-   le : 21/03/2015
-
-   Modifié le : 23/08/2016
-   --------------
    Fonctions qui gèrent les collisions.
    Nécessite la SDL 2.
 */

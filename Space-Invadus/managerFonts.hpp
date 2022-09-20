@@ -1,12 +1,3 @@
-/* managerFonts.hpp
-   ---------------
-
-   Créé par : Tattus
-   le : 17/05/2015
-
-   Modifié le : 22/10/2016
-
-*/
 #ifndef DEF_MANAGERFONTS
 #define DEF_MANAGERFONTS
 

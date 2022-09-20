@@ -1,11 +1,3 @@
-/* globalInitManagerus.cpp
-   -----------------
-
-   Créé par : Tattus
-   le : 18/10/2016
-
-   Modifié le : 21/10/2016
-*/
 #include "globalInitManagerus.hpp"
 
 static C_GlobalInitManager *myInstanceGIM = NULL;
@@ -183,7 +175,7 @@ void C_GlobalInitManager::closeSDLNET(void)
 bool C_GlobalInitManager::initializationFMOD(int nbChannel, int flags)
 {
     FMOD_RESULT verifFMOD = FMOD_OK;
-    verifFMOD = FMOD_System_Create(&mySystem);
+    verifFMOD = FMOD_System_Create(&mySystem, FMOD_VERSION);
     if (verifFMOD != FMOD_OK)
     {
         ErrorManager->errorCode(verifFMOD, C_ErrorManager::ERROR_FMOD);

@@ -1,10 +1,5 @@
 /* eventusManagerus.cpp
-   ------------------------
-
-   Créé par : Tattus
-   le : 18/05/2015
-
-   Modifié le : 23/10/2016
+   --------------------
 */
 #include "eventusManagerus.hpp"
 

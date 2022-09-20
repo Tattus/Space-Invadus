@@ -1,11 +1,3 @@
-/* resourcesManagerus.hpp
-   ----------------------
-
-   Créé par : Tattus
-   le : 03/05/2015
-
-   Modifié le : 21/10/2016
-*/
 /// Defines de parametrage -- Décommenter la ligne adéquate.
 #define DEF_RCFMODCORE
 #define DEF_RCSDL2
@@ -18,7 +10,7 @@
 
 /// Includes :
 #ifdef DEF_RCFMODCORE
-    #include <FMOD/fmod.h>
+    #include <FMOD/fmod.hpp>
 #endif // DEF_RCFMODCORE
 #ifdef DEF_RCSDL2
     #include <SDL2/SDL.h>

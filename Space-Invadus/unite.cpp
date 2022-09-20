@@ -1,11 +1,3 @@
-/* unite.cpp
-   ---------------
-
-   Créé par : Tattus
-   le : 25/10/2016
-
-   Modifié le : 05/11/2016
-*/
 #include "unite.hpp"
 
 C_Unite::C_Unite()

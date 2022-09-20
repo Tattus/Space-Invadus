@@ -1,12 +1,3 @@
-/* managerImages.cpp
-   -------------------
-
-   Créé par : Tattus
-   le : 17/05/2015
-
-   Modifié le : 27/10/2016
-
-*/
 #include <sstream>
 #include "managerImages.hpp"
 

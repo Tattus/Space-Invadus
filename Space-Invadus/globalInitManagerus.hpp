@@ -1,11 +1,3 @@
-/* globalInitManagerus.hpp
-   -----------------
-
-   Créé par : Tattus
-   le : 18/10/2016
-
-   Modifié le : 21/10/2016
-*/
 #ifndef DEF_GLOBALINITMANAGERUS
 #define DEF_GLOBALINITMANAGERUS
 

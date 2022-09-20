@@ -1,11 +1,3 @@
-/* menuWin.hpp
-   ---------------
-
-   Créé par : Tattus
-   le : 11/11/2016
-
-   Modifié le : 11/11/2016
-*/
 #ifndef DEF_MENUWIN
 #define DEF_MENUWIN
 

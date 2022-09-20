@@ -1,11 +1,3 @@
-/* menuLoose.cpp
-   ---------------
-
-   Créé par : Tattus
-   le : 11/11/2016
-
-   Modifié le : 11/11/2016
-*/
 #include "menuLoose.hpp"
 
 C_MenuLoose::C_MenuLoose()

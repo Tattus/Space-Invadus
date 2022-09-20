@@ -1,12 +1,3 @@
-/* sound.hpp
-   ---------
-
-   Créé par : Tattus
-   le : 17/05/2015
-
-   Modifié le : 22/10/2016
-
-*/
 #ifndef DEF_SOUND
 #define DEF_SOUND
 
@@ -14,7 +5,7 @@ using namespace std;
 
 /// Includes :
 #include <iostream>
-#include <FMOD/fmod.h>
+#include <FMOD/fmod.hpp>
 #include "errorusManagerus.hpp"
 #include "resourcesManagerus.hpp"
 #include "soundusManagerus.hpp"

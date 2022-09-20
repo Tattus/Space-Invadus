@@ -1,11 +1,3 @@
-/* alien.hpp
-   ---------------
-
-   Créé par : Tattus
-   le : 25/10/2016
-
-   Modifié le : 05/11/2016
-*/
 #ifndef DEF_ALIEN
 #define DEF_ALIEN
 

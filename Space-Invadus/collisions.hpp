@@ -1,11 +1,5 @@
 /* collisions.hpp
    --------------
-
-   Créé par Tattus
-   le : 21/03/2015
-
-   Modifié le : 23/08/2016
-   --------------
    Prototypes et structures des fonction de collisions.cpp
    Nécessite la SDL 2.
 */

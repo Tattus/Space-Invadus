@@ -1,18 +1,9 @@
-/* managerSounds.hpp
-   -------
-
-   Créé par : Tattus
-   le : 18/05/2015
-
-   Modifié le : 22/10/2016
-
-*/
 #ifndef DEF_MANAGERSOUNDS
 #define DEF_MANAGERSOUNDS
 
 /// Includes :
 #include <iostream>
-#include <FMOD/fmod.h>
+#include <FMOD/fmod.hpp>
 #include "errorusManagerus.hpp"
 #include "sound.hpp"
 

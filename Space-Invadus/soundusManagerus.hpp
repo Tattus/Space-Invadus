@@ -1,12 +1,3 @@
-/* soundusManagerus.hpp
-   --------------------
-
-   Créé par : Tattus
-   le : 10/05/2015
-
-   Modifié le : 22/10/2016
-
-*/
 #ifndef DEF_SOUNDUSMANAGERUS
 #define DEF_SOUNDUSMANAGERUS
 
@@ -14,7 +5,7 @@ using namespace std;
 
 /// Includes :
 #include <iostream>
-#include <FMOD/fmod.h>
+#include <FMOD/fmod.hpp>
 #include "errorusManagerus.hpp"
 
 /// Classe :
