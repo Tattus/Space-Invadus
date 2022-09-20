@@ -136,7 +136,7 @@ bool writeLicenses()
     /// Versions Projet
     fichier.setFilePath("Version/FR " + progName + " V" + version + " Version.txt");
     // Rédaction du fichier.
-    contenu = "\n*** Changement de la 0.1 à la 1.0 ***\n";
+    contenu = "\n*** Changement de la 0.1 à la 1.1 ***\n";
     contenu += "\n --------------------\n";
     contenu += "\nEquilibrage :\n\n";
     contenu += "_ Le vaisseau peut avoir jusqu'à 5 tirs simultanés au lieu de 3\n";
@@ -156,7 +156,7 @@ bool writeLicenses()
 
     fichier.setFilePath("Version/ENG " + progName + " V" + version + " Version.txt");
     // Rédaction du fichier.
-    contenu = "\n*** Changelog from 0.1 to 1.0 ***\n";
+    contenu = "\n*** Changelog from 0.1 to 1.1 ***\n";
     contenu += "\n --------------------\n";
     contenu += "\nGamebalance :\n\n";
     contenu += "_ Spaceship can shoot 5 times simultaneous instead of 3\n";

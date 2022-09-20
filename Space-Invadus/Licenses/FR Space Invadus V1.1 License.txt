@@ -1,6 +1,6 @@
 
 *** Credits ***
-*** Space Invadus V1.0 ***
+*** Space Invadus V1.1 ***
 
  --------------------
 
@@ -46,4 +46,4 @@ www.fmod.org/sales/
 
 *** Licence ***
 
-_ La diffusion gratuite de Space Invadus V1.0, sans modifications est autorisée.
+_ La diffusion gratuite de Space Invadus V1.1, sans modifications est autorisée.
